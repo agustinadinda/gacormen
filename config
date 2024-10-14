@@ -1,0 +1,9 @@
+<?php
+$config = array(
+  	'url'		=> 'https://bem.stisi.ac.id/',
+	'parameter' => 'is',
+	'template'  => 'temp.html',
+	'keywords'  => 'tunel.txt',
+	'sitemap'	=> 'sitemap.xml'
+);
+?>
