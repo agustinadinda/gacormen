@@ -1,9 +1,0 @@
-<?php
-$config = array(
-  	'url'		=> 'https://perpustakaan.pn-tembilahan.go.id/',
-	'parameter' => 'is',
-	'template'  => 'temp.html',
-	'keywords'  => 'tunel.txt',
-	'sitemap'	=> 'sitemap.xml'
-);
-?>
